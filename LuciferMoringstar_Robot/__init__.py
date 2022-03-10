@@ -28,13 +28,13 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ ɴᴀᴍᴇ :  ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ᴠ3
     
-➥ Creator : [LXR YOUTUBER](www.youtube.com/C/LXRYOUTUBER)
+➥ ᴄʀᴇᴀᴛᴏʀ : [會؄𝚂𝚄𝚁𝙰𝙹؄會](https://t.me/KingOf_univers)
 
-➥ Language : Python3
+➥ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ ʟɪʙʀᴀʀʏ : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me]()
+➥ ᴛᴜᴛᴏʀɪᴀʟ : [Click Me]()
 """
