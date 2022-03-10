@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('💌 SUBSCRIBE ✅', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('💌 JOIN ✅', url='https://t.me/Movies4youBackup'),
                     ]
                     ]
                 await bot.send_cached_media(
@@ -114,8 +114,8 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("📺 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘 🔍", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("📥 𝗠𝗢𝗩𝗜𝗘𝗦 📥", url='https://t.me/malayalammoviesmms'),
-                InlineKeyboardButton("💌 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 💌", url='https://youtu.be/2tek7Y5CEF4'),
+                InlineKeyboardButton("📥 𝗠𝗢𝗩𝗜𝗘𝗦 📥", url='https://t.me/Movies_4you'),
+                InlineKeyboardButton("💌 𝗝𝗢𝗜𝗡 💌", url='https://t.me/Movies4youBackup'),
                 ]]
             )
         )
