@@ -25,9 +25,9 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 START_MSG = """
 **Hi, I'm Media Search bot**
 
-⭕️ നിങ്ങൾക്ക് സിനിമ വേണമെങ്കിൽ ആദ്യം ഗ്രൂപ്പിൽ ജോയിൻ ചെയുക ⭕️
+⭕️ If you want a movie, join the group first ⭕️
 
-💘  𝙹𝙾𝙸𝙽  :  @malayalammoviesmms  💘.
+💘  𝙹𝙾𝙸𝙽  :  @Movies_4you  💘.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
