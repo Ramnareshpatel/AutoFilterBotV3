@@ -32,7 +32,7 @@
 
     ],
 
-    "website": "https://github.com/Amal-ser/AutoFilterBotV3",
+    "website": "https://github.com/Ramnareshpatel/AutoFilterBotV3",
 
     "repository": "https://github.com/Ramnareshpatel/AutoFilterBotV3",
 
@@ -112,7 +112,7 @@
 
             "description": "Welcome message for start command",
 
-            "value": "**Hi, I'm Am Amalser Autofilter Bot**",
+            "value": "**Hi, I'm Am  Autofilter Bot**",
 
             "required": false
 
@@ -170,7 +170,7 @@
 
             "description": "Name of the database in mongoDB ",
 
-            "value": "LuciferMoringstar_Robot"
+            "value": "Suraj_Autofilter_bot"
 
         },
 
